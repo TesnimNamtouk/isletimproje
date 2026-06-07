@@ -4,7 +4,7 @@
 
 Contiki-NG işletim sistemi üzerinde, Cooja simülatöründe Z1 mote'lar arasında OTA (Over-the-Air) firmware transfer sistemi.
 
->  **Simülasyon Videosu:** [YouTube Linki](#https://www.youtube.com/watch?v=QCWTrbryp6Y)  
+>  **Simülasyon Videosu:** [YouTube Linki](https://www.youtube.com/watch?v=QCWTrbryp6Y)  
 >  **ELF Analiz Raporu:** [OTA-ANALIZ.md](OTA-ANALIZ.md)
 
 ---
